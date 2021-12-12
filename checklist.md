@@ -1,4 +1,4 @@
-# SYSADMIN STUDY CHECKLIST
+# Sysadmin study checklist
 
 ## Server configuration
 - System time
@@ -19,7 +19,9 @@
 - Filesystem Hierarchy System
 - Permissions
 - LVM
-- ext3, ext4, XFS, btrfs, ...?
+- Relevant file system types
+	- ext3, ext4
+	- ?
 - Network file systems
 - Mounting, unmounting, fstab
 
@@ -72,7 +74,7 @@
 - Relevant commands
 	- netstat
 	- telnet
-- Physical?
+- Physical networking like switches and links?
 
 ## Security
 - Basics? Attack vector types?
@@ -93,6 +95,7 @@
 - Rotation
 - Log aggregation
 	- ELK
+	- Filebeat
 	- Graylog
 
 ## Monitoring
