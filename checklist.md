@@ -146,3 +146,14 @@
 - AWS
 - Azure
 - GCP?
+
+## Extras
+- vim
+	- Substitution
+	- Registers
+	- Buffers
+	- Macros
+	- Tabs, windows, split editing
+	- Marks, global marks
+	- Configuration
+	- Running commands
