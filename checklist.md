@@ -64,8 +64,6 @@
 			- IP
 			- TCP
 			- UDP
-			- BGP?
-			- ?
 		- DNS
 - Proxies, NAT
 - CIDR
