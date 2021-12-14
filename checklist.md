@@ -28,7 +28,10 @@
 ## Backups
 - Backup strategies
 - Creating backups/snapshots
+	- Minimizing downtime
+	- backuppc
 - Restoring from backups
+	- Restore testing
 
 ## Installing, updating and patching software
 - "Regular" software
@@ -121,6 +124,9 @@
 - Installation, configuration
 - Creating tables, users
 - Tuning?
+- NoSQL databases
+	- redis
+	- mongodb
 
 ## Virtualization and containers
 - vagrant
@@ -148,6 +154,7 @@
 - GCP?
 
 ## Extras
+To be curated:
 - vim
 	- Substitution
 	- Registers
@@ -157,3 +164,46 @@
 	- Marks, global marks
 	- Configuration
 	- Running commands
+- tcpdump
+- strace
+- rsync
+- tee
+- tmux
+- xargs
+- ncat
+- iftop
+- iptstate
+- screen
+- pdsh
+- logtail
+- dstat
+- mysqltuner
+- bacula
+- mrxvt
+- ccze
+- rzip
+- cpipe
+- column
+- tput
+- iotop
+- renice
+- ionice
+- parallel
+- multitail
+- grc
+- borgbackup
+- zstd
+- pv
+- keychain
+- findmnt
+- lxc
+- htop
+- tigervnc
+- xpra
+- lsyncd
+- ncdu
+- oping
+- gdu
+- synergy
+- alacritty
+- terminator 
