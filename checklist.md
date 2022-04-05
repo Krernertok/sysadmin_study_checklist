@@ -27,6 +27,8 @@
 
 ## Backups
 - Backup strategies
+		https://www.msp360.com/resources/blog/guide-to-linux-patching-management/
+		https://ubuntu.com/security/noticeshttps://ubuntu.com/security/notices
 - Creating backups/snapshots
 	- Minimizing downtime
 	- backuppc
