@@ -29,3 +29,7 @@
 
 		virsh destroy test-vm; virsh undefine test-vm
 
+### Finding out a VM's IP address
+
+		virsh domifaddr <VM name>
+
